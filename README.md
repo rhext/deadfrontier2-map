@@ -2,6 +2,9 @@
 Map for Dead Frontier 2
 
 ## Installation
+
+Check for new releases ;)
+
 Download DF2 Map v*.*.7z.
 
 Extract.
