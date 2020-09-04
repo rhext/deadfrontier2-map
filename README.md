@@ -5,11 +5,14 @@ Map for Dead Frontier 2
 
 Check for new releases (if there are any tho :C)
 
-Download DF2 Map v*.*.7z.
+Download DF2 Map.7z in Release
 
 Extract.
 
 ## How to use
+
+Open the "Dead Frontier 2 Map.exe"
+
 ### 1. Searching
 
 Make sure the radio button 'Search' is selected. This will prevent unnecessary editing of the database.
